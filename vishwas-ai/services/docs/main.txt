@@ -1,0 +1,4 @@
+
+Credentials saved to file: [/home/bms/.config/gcloud/application_default_credentials.json]
+
+

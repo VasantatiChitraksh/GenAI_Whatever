@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# .tar file
+/services/core-engine/google-cloud-sdk
+/services/cloud-stuff
+*.tar.gz
+
+# other files
+/docs/main.txt
